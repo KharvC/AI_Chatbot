@@ -1,4 +1,4 @@
-**Note:** The application may not work as the APIs might not exist anymore
+**Note:** The application won't work if you don't have a BadgerId
 
 # BadgerChat Voice Interface
 
